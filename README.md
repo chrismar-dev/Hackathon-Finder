@@ -1,6 +1,6 @@
 # Web Development Project 1 - Hackathon Finder
 
-Submitted by: **Your Name Here**
+Submitted by: Christian Marbury
 
 This web app: Lists some popular Hackathon Events
 
@@ -20,7 +20,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [x] List anything else that you added to improve the site's functionality!
+A clean interface to improve readability and site navigation 
 
 ## Video Walkthrough
 
@@ -29,7 +30,7 @@ Here's a walkthrough of implemented required features:
 <img src='https://i.imgur.com/ySk5OYR.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ...  OBS
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
